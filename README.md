@@ -1,7 +1,3 @@
-Here’s an attractive and informative README for your GitHub repository based on CNN models using the CIFAR dataset:
-
----
-
 # 🎨 CNNs on CIFAR-10 Dataset 🖼️
 
 ![CIFAR-10 Logo](https://raw.githubusercontent.com/cifar-10/cifar-assets/main/logo.png)
